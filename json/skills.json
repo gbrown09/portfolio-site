@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Typescript"
+    },
+    {
+        "name": "JavaScript"
+    },
+    {
+        "name": "Java"
+    },
+    {
+        "name": "Angular"
+    },
+    {
+        "name": "Python"
+    } ,
+    {
+        "name": "NodeJs"
+    } ,  
+    {
+        "name": "NestJS"
+    } ,
+    {
+        "name": "C#"
+    } , 
+    {
+        "name": "C++"
+    } ,      
+    {
+        "name": "Rest APIs"
+    } ,
+    {
+        "name": "Spring Boot"
+    } ,
+    {
+        "name": "CI/CD"
+    } ,
+    {
+        "name": "Git"
+    } ,
+    {
+        "name": "SQL"
+    } ,
+    {
+        "name": "SQL Server"
+    } ,
+    {
+        "name": "MongoDB"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Random Acro",
+        "srcPath": "/../public/img/todo.png",
+        "description": "A bot for a Discord that I'm in written in Typescript using discordJS",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}]
+    } ,
+    {
+        "title": "Random Acro API",
+        "srcPath": "/../public/img/randomAcro.png",
+        "description": "The backend for Random Acro built using NestJS with MongoDB as the database",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "MongoDB"}]
+    } ,
+    {
+        "title": "To-Do app",
+        "srcPath": "/../public/img/todo.png",
+        "description": "Basic To-Do app frontend built with Angular",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+    } ,
+    {
+        "title": "To-Do app",
+        "srcPath": "/../public/img/todo.png",
+        "description": "Basic To-Do app frontend built with Angular",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+    } ,
+    {
+        "title": "To-Do app",
+        "srcPath": "/../public/img/todo.png",
+        "description": "Basic To-Do app frontend built with Angular",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+    } ,
+    {
+        "title": "To-Do app",
+        "srcPath": "/../public/img/todo.png",
+        "description": "Basic To-Do app frontend built with Angular",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+    }
+]
