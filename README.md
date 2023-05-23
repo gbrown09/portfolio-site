@@ -1,5 +1,5 @@
 <h1 align="center">🌐 Personal Website</h1>
-This is the source code for 
+This is the source code for https://grthomelab.com/
 
 ## Getting Started
 Clone the app, then run:
@@ -15,6 +15,16 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+## Building and Deploying
+
+To deploy the app: Clone the repo, cd into it, install dependencies then build the app. You can then run like below or build a Docker image and run it in a container using the Dockerfile
+
+#### Project Commands
+- Fetch dependencies: `npm install`
+- Start development server: `npm run dev`
+- Build for production: `npm run build`
+- Start production server: `npm run start`
 
 ## Learn More
 

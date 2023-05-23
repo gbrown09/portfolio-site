@@ -5,7 +5,7 @@ import Chip from "./Chip";
 
 export default async function ProjectCard() {
   const jsonDirectory = path.join(process.cwd(), "json");
-  const imageDirectory ="/img/"
+  const imageDirectory = "/img/";
   //Read the json data file data.json
   const fileContents = await fs.readFile(jsonDirectory + "/projects.json", "utf8");
   const data = JSON.parse(fileContents);
@@ -20,7 +20,7 @@ export default async function ProjectCard() {
             data-mdb-ripple-color="light">
             {/*<img src={todo.src} className="w-full" />*/}
             <Image
-              src={imageDirectory+project.srcPath}
+              src={imageDirectory + project.srcPath}
               className="w-full"
               width={650}
               height={300}

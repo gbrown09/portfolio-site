@@ -31,7 +31,7 @@
         "title": "College Football Bot",
         "srcPath": "cfb-bot.png",
         "url": "#!",
-        "description": "Discord bot that get CFB schedules, scores, rankings, and other stats. Wrtiten in Typscript using DiscordJS, with a NestJS backend",
+        "description": "Discord bot that gets CFB schedules, scores, rankings, and other stats. Wrtiten in Typscript using DiscordJS, with a NestJS backend",
         "skills": [{"name":"Typescript"}, {"name": "Node.js"}, {"name":"CI/CD"}, {"name":"Git"}, {"name": "Git"}]
     } ,
     {
