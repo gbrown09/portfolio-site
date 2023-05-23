@@ -10,7 +10,7 @@ export default async function About() {
 
   return (
     <>
-      <div className="flex m-auto max-w-[80%] h-[900px]">
+      <div className="flex m-auto max-w-[80%] h-[15em]">
         <div id="aboutSection" className="h-full min-w-[80%] m-auto max-h-[60rem]">
           <div className="flex place-content-center">
             <h2 className="m-auto lg:text-7xl sm:text-3xl">About Me</h2>
