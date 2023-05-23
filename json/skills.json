@@ -10,15 +10,21 @@
     },
     {
         "name": "Angular"
-    },
+    }, 
+    {
+        "name": "React"
+    } ,
     {
         "name": "Python"
     } ,
     {
-        "name": "NodeJs"
+        "name": "Node.js"
     } ,  
     {
         "name": "NestJS"
+    } ,
+    {
+        "name": "Next.js"
     } ,
     {
         "name": "C#"
@@ -33,7 +39,7 @@
         "name": "Spring Boot"
     } ,
     {
-        "name": "CI/CD"
+        "name": "CI/CD Pipelines"
     } ,
     {
         "name": "Git"
@@ -46,5 +52,23 @@
     } ,
     {
         "name": "MongoDB"
-    }
+    } ,
+    {
+        "name": "Docker"
+    } ,
+    {
+        "name": "Jenkins"
+    } ,
+    {
+        "name": "Maven"
+    } ,
+    {
+        "name": "Microservices"
+    } ,
+    {
+        "name": "CSS"
+    } ,
+    {
+        "name": "HTML"
+    } 
 ]

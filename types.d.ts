@@ -7,4 +7,5 @@ type Project = {
   srcPath: string;
   description: string;
   skills: Skill[];
+  url?: string;
 };

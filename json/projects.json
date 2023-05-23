@@ -1,38 +1,44 @@
 [
     {
         "title": "Random Acro",
-        "srcPath": "/../public/img/todo.png",
-        "description": "A bot for a Discord that I'm in written in Typescript using discordJS",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}]
+        "srcPath": "acro.png",
+        "url": "https://github.com/gbrown09/randomAcro",
+        "description": "A bot for a Discord that i'm in written in Typescript using DiscordJS",
+        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name":"Docker"}, {"name":"CI/CD"}]
     } ,
     {
         "title": "Random Acro API",
-        "srcPath": "/../public/img/randomAcro.png",
+        "srcPath": "acro-backend.png",
+        "url": "https://github.com/gbrown09/randomAcroBackend",
         "description": "The backend for Random Acro built using NestJS with MongoDB as the database",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "MongoDB"}]
+        "skills": [{"name":"Typescript"}, {"name": "Node.js"}, {"name": "MongoDB"}, {"name": "Rest API"}, {"name": "Git"}, {"name": "Docker"}, {"name":"CI/CD"}]
     } ,
     {
-        "title": "To-Do app",
-        "srcPath": "/../public/img/todo.png",
-        "description": "Basic To-Do app frontend built with Angular",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+        "title": "To-Do Frontend",
+        "srcPath": "todo.png",
+        "url": "https://github.com/gbrown09/todo-app",
+        "description": "Basic To-Do app frontend with authentication built with Angular",
+        "skills": [{"name":"Typescript"}, {"name": "Angular"},  {"name": "CSS"},  {"name": "HTML"}, {"name": "Git"}, {"name": "Docker"}, {"name":"CI/CD"}]
     } ,
     {
-        "title": "To-Do app",
-        "srcPath": "/../public/img/todo.png",
-        "description": "Basic To-Do app frontend built with Angular",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+        "title": "To-Do Backend",
+        "srcPath": "todo-backend.png",
+        "url": "https://github.com/gbrown09/grthomelab-backend",
+        "description": "Backend Rest API for the To-Do app that also implements authentication. Uses Java with Spring Boot and MongoDB",
+        "skills": [{"name":"Java"},{"name": "Spring Boot"}, {"name": "MongoDB"}, {"name": "Rest API"}, {"name": "Docker"}, {"name":"CI/CD"}]
     } ,
     {
-        "title": "To-Do app",
-        "srcPath": "/../public/img/todo.png",
-        "description": "Basic To-Do app frontend built with Angular",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+        "title": "College Football Bot",
+        "srcPath": "cfb-bot.png",
+        "url": "#!",
+        "description": "Discord bot that get CFB schedules, scores, rankings, and other stats. Wrtiten in Typscript using DiscordJS, with a NestJS backend",
+        "skills": [{"name":"Typescript"}, {"name": "Node.js"}, {"name":"CI/CD"}, {"name":"Git"}, {"name": "Git"}]
     } ,
     {
-        "title": "To-Do app",
-        "srcPath": "/../public/img/todo.png",
-        "description": "Basic To-Do app frontend built with Angular",
-        "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name": "Angular"}]
+        "title": "Portfolio Website",
+        "srcPath": "portfolio.png",
+        "url": "https://github.com/gbrown09/portfolio-site",
+        "description": "This website, used as an introduction and portfolio. Uses NextJS and TailwindCSS",
+        "skills": [{"name":"Typescript"}, {"name": "React"}, {"name": "Next.js"}, {"name":"Tailwind CSS"}, {"name": "HTML"}]
     }
 ]
