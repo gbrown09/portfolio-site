@@ -13,9 +13,9 @@ export default async function About() {
       <div className="flex m-auto max-w-[80%] h-[900px]">
         <div id="aboutSection" className="h-full min-w-[80%] m-auto max-h-[60rem]">
           <div className="flex place-content-center">
-            <h2 className="m-auto lg:text-7xl md:text-3xl sm:text-3xl">About Me</h2>
+            <h2 className="m-auto lg:text-7xl sm:text-3xl">About Me</h2>
           </div>
-          <div className="grid gap-x-6 lg:grid-cols-2 sm:grid-cols-2 mt-6">
+          <div className="grid gap-x-6 md:grid-cols-2 sm:grid-cols-1 mt-6">
             <div className="text-center">
               <h1 className="sm:text-2xl lg:text-5xl">About Garrett....</h1>
               <p className="mb-10 pt-3 mx-2 px-4 lg:text-2xl sm:text-l text-center">

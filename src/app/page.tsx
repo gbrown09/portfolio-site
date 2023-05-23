@@ -19,7 +19,7 @@ export default function Home() {
       <section
         id="project-section"
         className="pb-12 pt-[4rem] m-auto bg-base-200 text-center px-6 lg:text-left">
-        <h1 className="font-bold pt-6 mb-12 text-center">Projects</h1>
+        <h1 className="font-bold pt-6 mb-12 text-center sm:text-3xl lg:text-7xl">Projects</h1>
         <div className="h-fit max-w-[80%] m-auto grid lg:grid-cols-3 gap-y-6 gap-x-10">
           <ProjectCard></ProjectCard>
         </div>
