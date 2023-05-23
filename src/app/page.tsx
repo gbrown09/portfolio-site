@@ -13,7 +13,7 @@ export default function Home() {
       <section className="">
         <Hero></Hero>
       </section>
-      <section id="about-section" className="pt-[8rem]">
+      <section id="about-section" className="pt-[8rem] sm:h-[94em]">
         <About></About>
       </section>
       <section
