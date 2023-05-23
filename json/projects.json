@@ -3,7 +3,7 @@
         "title": "Random Acro",
         "srcPath": "acro.png",
         "url": "https://github.com/gbrown09/randomAcro",
-        "description": "A bot for a Discord that i'm in written in Typescript using DiscordJS",
+        "description": "A bot for a Discord that is written in Typescript using DiscordJS",
         "skills": [{"name":"Typescript"}, {"name": "Git"}, {"name":"Docker"}, {"name":"CI/CD"}]
     } ,
     {

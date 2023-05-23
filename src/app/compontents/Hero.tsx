@@ -11,7 +11,7 @@ export default function Hero() {
             </h1>
             <p className="mb-4 text-lg text-center">
               A Full Stack developer based in the Austin Metro Area focused on building Front-end
-              and Back-end applications that lead to successfull software solutions
+              and Back-end applications that lead to successful software solutions
             </p>
           </div>
         </div>
